@@ -30,7 +30,6 @@
     <link rel="stylesheet" type="text/css" href="/Normalize.css">
   	<link rel="stylesheet" type="text/css" href="./css/style.css?v=4">
     <link rel="stylesheet" type="text/css" href="./css/bg_style.css?v=1">
-    <script src="/bootstrap/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container-fluid" id='padding-erase'>
@@ -65,5 +64,7 @@
           echo "</div>";
         ?>
     </div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
